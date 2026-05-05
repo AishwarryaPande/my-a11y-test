@@ -1,0 +1,11 @@
+cat > index.html << 'EOF'
+<!DOCTYPE html>
+<html>
+<head><title>Test Page</title></head>
+<body>
+  <img src="dog.jpg">
+  <button>X</button>
+  <input type="text" placeholder="Enter name">
+</body>
+</html>
+EOF
